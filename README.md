@@ -1,5 +1,5 @@
 # 💫 About Me:
-⛳I am frontend developer currently polishing my skills in javascript.
+⛳I am ReactJS developer working hard to achive my goals
 
 
 ## 🌐 Socials:
