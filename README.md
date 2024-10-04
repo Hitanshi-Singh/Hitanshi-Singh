@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I am a frontend developer from India, currently brushing up my skills in backend
+
+👋 Hey there! I'm Hitanshi Singh, your friendly neighborhood coder on a mission to craft web apps that not only work like a charm but look cool doing it! I’m a code warrior battling bugs, wrestling with APIs, and building projects that make the internet a little more awesome.
+
+🚀 **What I've been up to:**
+- **ViewTube**: Think YouTube, but with my magic touch! I built this ReactJS app featuring everything from nested comments to live chat, API integrations, and some geeky performance boosts using Redux, debouncing, and caching (speed is everything, right?).
+- **Hackathon Hero**: Conquered hackathons like *Infothon* and *Smart India Hackathon*, solving complex problems in record time—think of it like coding under a ticking time bomb (in a fun way)!
+- **Open Source Adventures**: Proud to be a top 20 contributor in the *Diversion Open Source Program*. I like to give back to the community that’s made me the developer I am today.
+
+💻 **Things I geek out on**: Backend development in Java, NodeJs
+
+🌟 As a **Reliance Foundation Scholar**, I believe in continuous learning and pushing the boundaries of what I can do.
+
+If you love chatting about code, nerdy stuff, or just want to build something cool together, hit me up! ⚡
 
 
 ## 🌐 Socials:
